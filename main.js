@@ -1,2 +1,2 @@
-console.log("Hello from main JS")
-document.getElementById("git")
+console.log( document.getElementById("git").innerHTML = "Using innerHTML." )
+
